@@ -1,0 +1,37 @@
+.miBtn {
+    background-color: #c1101a;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+p {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+
+
+.miBtn {
+    background-color: #c1101a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .miBtn:hover {
+    background-color: #a10814;
+  }
